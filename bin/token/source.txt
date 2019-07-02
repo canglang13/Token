@@ -1,0 +1,5 @@
+program bubble 
+var integer i,j,num; 
+procedure q(integer num); 
+var integer i,j,k; £¿
+	integer 34t; 
